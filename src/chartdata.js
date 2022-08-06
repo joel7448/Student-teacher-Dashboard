@@ -1,0 +1,35 @@
+export const chartdata=[{
+    id:1,
+    year:2016,
+    usergain:80000,
+    userlost:823
+}
+,
+{
+    id:2,
+    year:2017,
+    usergain:40000,
+    userlost:800
+}
+,
+{
+    id:3,
+    year:2018,
+    usergain:60000,
+    userlost:600
+}
+,
+{
+    id:4,
+    year:2019,
+    usergain:70000,
+    userlost:750
+}
+,
+{
+    id:5,
+    year:2020,
+    usergain:90000,
+    userlost:650
+}
+]
